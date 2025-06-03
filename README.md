@@ -3,7 +3,7 @@
 This project implements an end-to-end deep learning pipeline to colorize grayscale images using a convolutional encoder-decoder network. It was built and tested on the CIFAR-10 dataset and demonstrates the model's ability to infer plausible colors from 1-channel inputs.
 
 <p align="center">
-  <img src=".png" width="80%">
+  <img src="Output.png" width="80%">
 </p>
 
 ---
