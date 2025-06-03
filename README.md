@@ -4,6 +4,10 @@ This project implements an end-to-end deep learning pipeline to colorize graysca
 
 <p align="center">
   <img src="Output.png" width="80%">
+  <img src="Output1.png" width="80%">
+  <img src="Output2.png" width="80%">
+  <img src="Output3.png" width="80%">
+  <img src="Output4.png" width="80%">
 </p>
 
 ---
